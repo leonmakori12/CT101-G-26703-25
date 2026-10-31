@@ -1,4 +1,6 @@
 //program for driving test result evaluation
+//This program evaluates driving test results using if-else ladder 
+//It takes theory and practical marks and calcultes average to decide pass/fail
 #include <iostream>
 using namespace std;
 
