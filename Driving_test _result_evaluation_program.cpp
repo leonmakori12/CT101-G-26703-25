@@ -1,4 +1,5 @@
 //program for driving test result evaluation
+//It takes theory and practical marks and calculates average to decide pass/fail
 
 #include <iostream>
 using namespace std;
